@@ -1,5 +1,20 @@
 <!-- ===================== PROFESSIONAL ANIMATED HEADER ===================== -->
+<!-- ===================== PORTFOLIO ===================== -->
 
+<p align="center">
+  <a href="https://www.usmaniqbal.tech/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-usmaniqbal.tech-00bfff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A1A2F"
+      alt="Visit My Portfolio"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Explore my portfolio, projects, skills, experience, and professional work.</strong>
+</p>
+
+<!-- ===================================================== -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,25:1e90ff,50:4169e1,75:7b2ffc,100:00ffff&height=200&section=header&text=🚀%20USMAN%20IQBAL%20🚀&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=40"
